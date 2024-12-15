@@ -29,3 +29,5 @@
 ## 4. Enjoy
    - Upon changing the values and rejoining you will have your data loaded, saved.
 
+*Want to reset data?*
+https://github.com/v3lvics/rbx-datastorer/wiki/Reseting-full-data-of-every-player.
