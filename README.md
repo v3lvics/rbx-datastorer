@@ -10,6 +10,9 @@
    - Open a Baseplate in Roblox Studio.
    - Find file in your computer
    - Drag it into the Baseplate.
+
+> [!IMPORTANT]
+> `Move the entire thing into ServerScriptService`
      
 ## 2. Publishing
    - Publish the game
