@@ -27,4 +27,4 @@
    - Upon changing the values and rejoining you will have your data loaded, saved.
 
 **Did not find what you are searching for?**
-*Look into the **wiki**.*
+*Look into the **wiki**.* 🗞️
